@@ -1,16 +1,16 @@
-### Hi there 👋
+# 基本信息 Basic Information
+一个咸鸭蛋：理想是很闲但富得流油~
 
-<!--
-**xuniyishifanchen/xuniyishifanchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 个人频道 Channels
 
-Here are some ideas to get you started:
+* **GitHub**: [xuniyishifanchen](https://github.com/xuniyishifanchen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 技能概述 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuniyishifanchen&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuniyishifanchen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**个人主页/Personal Website**：https://xuniyishifanchen.eu.org/
+
+**GitHub**：https://github.com/xuniyishifanchen
