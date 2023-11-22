@@ -11,6 +11,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuniyishifanchen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://raw.githubusercontent.com/xuniyishifanchen/xuniyishifanchen/output/github-contribution-grid-snake.svg)
+
 **个人主页/Personal Website**：https://xuniyishifanchen.eu.org/
 
 **GitHub**：https://github.com/xuniyishifanchen
